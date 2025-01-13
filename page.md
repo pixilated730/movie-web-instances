@@ -24,7 +24,7 @@ final announcement screenshots: [1](https://files.catbox.moe/ddesj8.png), [2](ht
 
 💾📱 [film.kace.dev](https://film.kace.dev) - by [userkace](https://github.com/userkace)
 
-✅💾📱🍩 [watch.eyepapcorn.live](https://watch.eyepapcorn.live) - by Pixel
+✅💾📱 [watch.eyepapcorn.live](https://watch.eyepapcorn.live) - by Pixel
 
 [sunnymovies.site](https://sunnymovies.site) - by [wanjiruuuuu](https://github.com/wanjiruuuuu)
 
